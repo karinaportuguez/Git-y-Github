@@ -46,3 +46,10 @@ body
   background: white;
   padding: 1em;
 }
+#footer
+{
+  background-color: rgb(87, 87, 87);
+  color: #ddd;
+  text-align: center;
+  padding: 00.5em;
+}

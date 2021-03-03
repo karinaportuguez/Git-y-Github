@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f49a: 
+# Hyperblog 💚
 
 Hola, Este es un blog increíble que hice para el curso de Git y Github de Platzi.
 
@@ -12,7 +12,7 @@ Hola, Este es un blog increíble que hice para el curso de Git y Github de Platz
 - Trucos muy locos del profesor
 - Las personalidades multiples de Freddy
 
-Como recordatorio: **Este readme.md es un chiste**, diseñado unicamente como ejemplo . Si llegas acá NO TE LO TOMES ENSERIO y mejor ve a ver el curso o sigue leyendo para leer las verdaderas notas de este archivo :tw-1f60b:
+Como recordatorio: **Este readme.md es un chiste**, diseñado unicamente como ejemplo . Si llegas acá NO TE LO TOMES ENSERIO y mejor ve a ver el curso o sigue leyendo para leer las verdaderas notas de este archivo 😋
 
 
 ## Informacion sobre el curso

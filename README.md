@@ -26,10 +26,11 @@ Como recordatorio: **Este readme.md es un chiste**, diseñado unicamente como ej
 
 
 
-## Apuntes
+## Aportes
 
-Dando ultimos retoques para terminarlos
+Dando ultimos retoques para terminarlos apuntes
 
+[pagina en github page](https://karinaportuguez.github.io/hyperblog/blogpost.html)
 
 
 ## Estado del curso
